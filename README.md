@@ -50,3 +50,7 @@ We thank the contributors to the following open-source projects. Our project is 
 * 3D Detection. [MMDetection3d](https://github.com/open-mmlab/mmdetection3d), [DETR3D](https://github.com/WangYueFt/detr3d), [PETR](https://github.com/megvii-research/PETR).
 * Multi-object tracking. [MOTR](https://github.com/megvii-research/MOTR), [MUTR3D](https://github.com/a1600012888/MUTR3D), [SimpleTrack](https://github.com/tusen-ai/SimpleTrack).
 * End-to-end motion forecasting. [FutureDet](https://github.com/neeharperi/FutureDet).
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
