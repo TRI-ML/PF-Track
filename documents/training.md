@@ -44,7 +44,7 @@ For example, if you want to train a small-resolution model, the command will be:
 bash tools/dist_train.sh projects/configs/tracking/petr/f3_q5_800x320.py 8 --work-dir work_dirs/f3_pf_track/ 
 ```
 
-The results should be similar to the `./pf_track_logs/paper/f3_all/final.pth` provided by us.
+The results should be similar to the `f3_all/final.pth` pretrained model provided by us.
 
 ## 2. Notes for Developers
 
