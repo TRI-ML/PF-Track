@@ -136,7 +136,7 @@ data = dict(
               num_frames_per_sample=1,),
     visualization=dict(type=dataset_type, pipeline=train_pipeline,
               pipeline_multiframe=train_pipeline_multiframe,
-              data_root=data_root, test_mode=False,
+              data_root=data_root, test_mode=False, forecasting=True,
               classes=class_names, modality=input_modality,
               ann_file=data_root + 'tracking_forecasting-mini_infos_val.pkl',
               num_frames_per_sample=1,))
